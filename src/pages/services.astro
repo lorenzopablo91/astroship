@@ -1,0 +1,114 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@components/container.astro";
+import Sectionhead from "@components/sectionhead.astro";
+import ServiceCard from "@components/services.astro";
+
+const service = [
+{
+    name: "Derecho Societario",
+    desc: "Asesoramos sobre:",
+    features: [
+      "Inscripción/registración de PyMES y otras empresas.",
+      "Resolución de conflictos empresariales.",
+      "Creación de estatutos y contratos comerciales.",
+      "Organización y desarrollo de asambleas.",
+      "Licitaciones.",
+      "Reorganizaciones empresariales.",
+    ],
+  },
+  {
+    name: "Sucesiones",
+    desc: "Asesoramos sobre:",
+    features: [
+      "Confección de testamentos.",
+      "Adelantos de herencia.",
+      "Colaciones.",
+      "Derecho de representación.",
+      "",
+      "",
+      "",
+      "",
+      "",
+    ],
+  },
+  {
+    name: "Derecho Laboral",
+    desc: "Asesoramos sobre:",
+    features: [
+      "Correcta registración del trabajador.",
+      "Despidos.",
+      "Indemnizaciones.",
+      "Accidentes y enfermedades laborales y no profesionales.",
+      "Licencias.",
+      "Conflictos colectivos.",
+      "Reestructuración del personal.",
+    ],
+  },
+  {
+    name: "Familia",
+    desc: "Asesoramos sobre:",
+    features: [
+      "Alimentos",
+      "Régimen de cuidado personal.",
+      "Liquidación de la comunidad ganancial.",
+      "Convenciones matrimoniales.",
+      "Uniones convivenciales.",
+      "Compensación económica.",
+      "",
+      "",
+      "",
+      "",
+    ],
+  },
+  {
+    name: "Quiebras y Concursos",
+    desc: "Asesoramos sobre:",
+    features: [
+      "Quiebra directa e indirecta.",
+      "Concurso preventivo.",
+      "Salvataje.",
+    ],
+  },
+  {
+    name: "Contratos ",
+    desc: "Asesoramos sobre:",
+    features: [
+      "Confección de contratos de toda índole.",
+      "Resoluciones, rescisiones y nulidades.",
+      "Ejecuciones por incumplimiento.",
+    ],
+  },
+  {
+    name: "Accidentes de tránsito",
+    desc: "Asesoramos sobre:",
+    features: [
+      "Reclamos frente a tu aseguradora y terceros civilmente responsables.",
+      "",
+    ],
+  },
+  {
+    name: "Otros ",
+    desc: "Asesoramos sobre:",
+    features: [
+      "Desalojos.",
+      "Ejecuciones de títulos (cheques, pagares, etc).",
+    ],
+  },
+];
+---
+
+<Layout title="Servicios">
+  <Container>
+    <Sectionhead>
+      <Fragment slot="title">Servicios</Fragment>
+      <Fragment slot="desc">
+        Soluciones legales en diferentes áreas
+      </Fragment>
+    </Sectionhead>
+
+    <div class="grid md:grid-cols-2 gap-10 mx-auto max-w-screen-lg mt-12">
+      {service.map((item) => <ServiceCard service={item} />)}
+    </div>
+  </Container>
+</Layout>
