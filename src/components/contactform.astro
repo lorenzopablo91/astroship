@@ -12,6 +12,8 @@ const acessKey = '05c69475-baa5-4e6f-a01d-fd28043f417e';
   class="needs-validation"
   novalidate>
   <input type="hidden" name="access_key" value={acessKey} />
+  <input type="hidden" name="from_name" value="Legales D&W">
+  <input type="hidden" name="subject" value="Nueva consulta desde LegalesD&W">
   <input type="checkbox" class="hidden" style="display:none" name="botcheck" />
   <div class="mb-5">
     <input
@@ -19,7 +21,7 @@ const acessKey = '05c69475-baa5-4e6f-a01d-fd28043f417e';
       placeholder="Nombre"
       required
       class="w-full px-4 py-3 border-2 placeholder:text-gray-800 rounded-md outline-none focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100"
-      name="name"
+      name="nombre"
     />
     <div class="empty-feedback invalid-feedback text-red-400 text-sm mt-1">
       Por favor ingrese su nombre.
@@ -30,7 +32,7 @@ const acessKey = '05c69475-baa5-4e6f-a01d-fd28043f417e';
       id="email_address"
       type="email"
       placeholder="Correo Electrónico"
-      name="email"
+      name="correo electrónico"
       required
       class="w-full px-4 py-3 border-2 placeholder:text-gray-800 rounded-md outline-none focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100"
     />
@@ -43,7 +45,7 @@ const acessKey = '05c69475-baa5-4e6f-a01d-fd28043f417e';
   </div>
   <div class="mb-3">
     <textarea
-      name="message"
+      name="consulta enviada"
       required
       placeholder="Escriba su consulta"
       class="w-full px-4 py-3 border-2 placeholder:text-gray-800 rounded-md outline-none h-36 focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100"
