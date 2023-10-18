@@ -1,6 +1,7 @@
 ---
 interface Props {
   href: string;
+  target?: string;
   size?: "md" | "lg";
   block?: boolean;
   style?: "outline" | "primary" | "inverted" | "muted";
@@ -10,6 +11,7 @@ interface Props {
 
 const {
   href,
+  target = "",
   block,
   size = "lg",
   style = "primary",
@@ -31,6 +33,7 @@ const styles = {
 ---
 
 <a
+  target={target}
   href={href}
   {...rest}
   class:list={[

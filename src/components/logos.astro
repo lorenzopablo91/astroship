@@ -1,16 +1,19 @@
 ---
 // @ts-ignore
 import { Icon } from "astro-icon";
+import Link from "./ui/link.astro";
 ---
 
 <div class="mt-24">
-  <h2 class="text-center text-slate-500">Seguinos o contactanos en nuestras redes</h2>
+  <h2 class="text-center text-slate-500">Para más información visita nuestras redes:</h2>
   <div class="flex gap-8 md:gap-20 items-center justify-center mt-10 flex-wrap">
-    <Icon class="h-8 md:h-12" name="simple-icons:facebook" />
-    <Icon class="h-8 md:h-12" name="simple-icons:instagram" />
-    <Icon class="h-8 md:h-14" name="simple-icons:tiktok" />
-    <Icon class="h-8 md:h-16" name="simple-icons:twitter" />
-    <Icon class="h-8 md:h-12" name="simple-icons:youtube" />
-    <Icon class="h-8 md:h-12" name="simple-icons:whatsapp" />
+    <Link target="_blank" href="https://www.facebook.com/legalesdominguezweingart/" style="inverted"><Icon class="h-8 md:h-12" name="simple-icons:facebook"/></Link>
+    <Link target="_blank" href="https://www.instagram.com/legalesdominguezweingart/" style="inverted"><Icon class="h-8 md:h-12" name="simple-icons:instagram"/></Link>
+    <Link target="_blank" href="https://wa.me/+5492616094846" style="inverted"><Icon class="h-8 md:h-12" name="simple-icons:whatsapp"/></Link>
+    <!-- <Link target="_blank" href="https://wa.me/+5492615937244" style="inverted"><Icon class="h-8 md:h-12" name="simple-icons:whatsapp"/></Link> -->
+    <!-- <Link target="_blank" href="https://www.tiktok.com" style="inverted"><Icon class="h-8 md:h-12" name="simple-icons:tiktok"/></Link> -->
+    <!-- <Link target="_blank" href="https://www.twitter.com" style="inverted"><Icon class="h-8 md:h-12" name="simple-icons:twitter"/></Link> -->
+    <!-- <Link target="_blank" href="https://www.youtube.com" style="inverted"><Icon class="h-8 md:h-12" name="simple-icons:youtube"/></Link> -->
+    <!-- <Link target="_blank" href="https://www.linkedin.com" style="inverted"><Icon class="h-8 md:h-12" name="simple-icons:linkedin"/></Link> -->
   </div>
 </div>
