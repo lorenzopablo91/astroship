@@ -1,6 +1,5 @@
 ---
 import { getCollection } from "astro:content";
-import { Picture } from "@astrojs/image/components";
 import Layout from "@layouts/Layout.astro";
 import Container from "@components/container.astro";
 import Sectionhead from "@components/sectionhead.astro";
@@ -20,9 +19,7 @@ publishedBlogEntries.sort(function (a, b) {
   <Container>
     <Sectionhead>
       <Fragment slot="title">Publicaciones</Fragment>
-      <Fragment slot="desc">
-        Información legal en temas de interés.
-      </Fragment>
+      <Fragment slot="desc">Información legal en temas de interés.</Fragment>
     </Sectionhead>
     <main class="mt-16">
       <ul class="grid gap-16 max-w-4xl mx-auto">
@@ -31,19 +28,16 @@ publishedBlogEntries.sort(function (a, b) {
             <li>
               <a href={`/blog/${blogPostEntry.slug}`}>
                 <div class="grid md:grid-cols-2 gap-5 md:gap-10 items-center">
-                  <Picture
-                    src={blogPostEntry.data.image.src}
-                    alt={blogPostEntry.data.image.alt}
-                    sizes="(max-width: 800px) 100vw, 800px"
-                    widths={[200, 400, 800]}
-                    aspectRatio="16:9"
-                    background="#ffffff"
-                    fit="cover"
-                    position="center"
-                    loading={index <= 2 ? "eager" : "lazy"}
-                    decoding={index <= 2 ? "sync" : "async"}
-                    class="w-full rounded-md"
-                  />
+                  <picture>
+                    <img
+                      src={blogPostEntry.data.image.src}
+                      alt={blogPostEntry.data.image.alt}
+                      sizes="(max-width: 800px) 100vw, 800px"
+                      loading={index <= 2 ? "eager" : "lazy"}
+                      decoding={index <= 2 ? "sync" : "async"}
+                      class="w-full rounded-md"
+                    />
+                  </picture>
                   <div>
                     <span class="text-blue-400 uppercase tracking-wider text-sm font-medium">
                       {blogPostEntry.data.category}
