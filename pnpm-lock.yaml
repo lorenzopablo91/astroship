@@ -8,6 +8,9 @@ dependencies:
   '@astrojs/mdx':
     specifier: ^0.19.7
     version: 0.19.7(astro@3.3.2)
+  '@astrojs/vercel':
+    specifier: ^5.0.2
+    version: 5.0.2(astro@3.3.2)
   '@astrojs/sitemap':
     specifier: ^2.0.2
     version: 2.0.2
