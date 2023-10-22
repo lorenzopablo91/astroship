@@ -3,7 +3,7 @@ draft: false
 title: "Separación de bienes"
 snippet: ""
 image: {
-    src: "/blog/separacion-bienes.jpg",
+    src: "/blog/separacion-bienes.png",
     alt: "separacion de bienes"
 }
 publishDate: "2023-04-04"
