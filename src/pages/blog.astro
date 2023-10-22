@@ -13,6 +13,18 @@ const publishedBlogEntries = await getCollection("blog", ({ data }) => {
 publishedBlogEntries.sort(function (a, b) {
   return b.data.publishDate.valueOf() - a.data.publishDate.valueOf();
 });
+
+function formatFechaArgentina(date: Date): string {
+    const meses: string[] = [
+        "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio",
+        "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"
+    ];
+    const dia: number = date.getDate();
+    const mes: string = meses[date.getMonth()];
+    const año: number = date.getFullYear();
+
+    return `${dia} de ${mes} de ${año}`;
+}
 ---
 
 <Layout title="Blog">
@@ -53,14 +65,11 @@ publishedBlogEntries.sort(function (a, b) {
                     </h2>
 
                     <div class="flex gap-2 mt-3">
-                      <span class="text-gray-400">
-                        {blogPostEntry.data.author}
-                      </span>
                       <span class="text-gray-400">• </span>
                       <time
                         class="text-gray-400"
                         datetime={blogPostEntry.data.publishDate.toISOString()}>
-                        {blogPostEntry.data.publishDate.toDateString()}
+                        {formatFechaArgentina(blogPostEntry.data.publishDate)}
                       </time>
                     </div>
                   </div>
