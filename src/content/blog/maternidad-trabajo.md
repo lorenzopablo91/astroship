@@ -8,7 +8,7 @@ image: {
 }
 publishDate: "2023-08-28"
 category: "Derecho Laboral"
-author: "dsadsa"
+author: ""
 tags: []
 ---
 

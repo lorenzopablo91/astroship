@@ -1,12 +1,11 @@
 ---
 import Button from "./ui/button.astro";
-const acessKey = '05c69475-baa5-4e6f-a01d-fd28043f417e';
+const acessKey = import.meta.env.ACESS_KEY;
+const URL = import.meta.env.URL;
 ---
 
-<!-- To make this contact form work, create your free access key from https://web3forms.com/
-     Then you will get all form submissions in your email inbox. -->
 <form
-  action="https://api.web3forms.com/submit"
+  action={URL}
   method="POST"
   id="form"
   class="needs-validation"
