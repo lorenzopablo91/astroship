@@ -1,10 +1,6 @@
 ## Installation
 
-If you are reading this on github, you can click on the "Use this template" button above to create a new repository from astroship to your account. Then you can do a `git clone` to clone it to your local system.
-
-Alternatively, you can clone the project directly from this repo to your local system.
-
-### 1. Install Dependencies
+### Install Dependencies
 
 ```bash
 npm install
@@ -14,7 +10,7 @@ yarn install
 pnpm install
 ```
 
-### 2. Start development Server
+### Start development Server
 
 ```bash
 npm run dev
