@@ -18,7 +18,7 @@ Puede ser solicitado al inicio o durante el transcurso del proceso, en este últ
 
 Una vez que ha sido otorgado se informará a los organismos de recaudación quienes podrán solicitar su revocación en cualquier momento, sí se comprueba que cesaron las causales que motivaron su concesión.
 
-## Efectos.
+## Efectos
 
 - La obtención del beneficio implica no abonar al inicio los impuestos de justicia y toda erogación que implique el proceso.
 

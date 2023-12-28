@@ -1,4 +1,22 @@
+---
+import Link from "./ui/link.astro";
+---
+
 <footer class="my-20">
+  <a href="/" style="text-decoration: none;">
+    <picture>
+      <source
+        type="image/png"
+        srcset="logotipo.png"
+      />
+      <img
+        src="v.webp"
+        alt="Astronaut in the air"
+        loading="eager"
+        style="width: 10%; max-width: 100%; border-radius: 15px; display: block; margin: 0 auto; transition: transform 0.3s;"
+      />
+    </picture>
+  </a>
   <p class="text-center text-sm text-slate-500">
     © {new Date().getFullYear()} LegalesD&W. Todos los derechos reservados.
   </p>
