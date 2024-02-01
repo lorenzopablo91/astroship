@@ -17,12 +17,12 @@ Te contamos que al contraer matrimonio los cónyuges se someten a un régimen pa
 
 ## Régimen patrimonial.
 
-- Los cónyuges al contraer matrimonio deben optar por un régimen patrimonial¨; sea la comunidad ganancial o separación de bienes.
+Los cónyuges al contraer matrimonio deben optar por un régimen patrimonial¨; sea la comunidad ganancial o separación de bienes.
 
-- Sí lo cónyuges no realizan esta elección rige supletoriamente la comunidad ganancial.
+Sí lo cónyuges no realizan esta elección rige supletoriamente la comunidad ganancial.
 
 ## Cambio de régimen
 
-- El régimen se puede modificar una vez que transcurrido 1 año de su aplicación.
+El régimen se puede modificar una vez que transcurrido 1 año de su aplicación.
 
-- Para que produzca sus efectos se debe anotar en el acta matrimonial.
+Para que produzca sus efectos se debe anotar en el acta matrimonial.

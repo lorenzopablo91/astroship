@@ -16,10 +16,10 @@ Como trabajador debes saber que no solo podés estar registrado o no, sino contr
 
 ## ¿Cómo saber si estás correctamente registrado?
 
-- Prestá atención a el monto de tu remuneración y a la fecha de inicio del vínculo laboral.
+Prestá atención a el monto de tu remuneración y a la fecha de inicio del vínculo laboral.
 
 ## Indemnización
 
-- Corresponde frente a la inacción del empleador una vez que ha sido intimado.
+• Corresponde frente a la inacción del empleador una vez que ha sido intimado.
 
-- Recordá que tenés derecho a reclamar la registración, pero también a que esta sea correcta.
+• Recordá que tenés derecho a reclamar la registración, pero también a que esta sea correcta.

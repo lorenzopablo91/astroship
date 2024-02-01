@@ -22,7 +22,7 @@ const URL = import.meta.env.URL;
       class="w-full px-4 py-3 border-2 placeholder:text-gray-800 rounded-md outline-none focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100"
       name="nombre"
     />
-    <div class="empty-feedback invalid-feedback text-red-400 text-sm mt-1">
+    <div class="empty-feedback invalid-feedback text-red-700 text-sm mt-1">
       Por favor ingrese su nombre.
     </div>
   </div>
@@ -35,10 +35,10 @@ const URL = import.meta.env.URL;
       required
       class="w-full px-4 py-3 border-2 placeholder:text-gray-800 rounded-md outline-none focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100"
     />
-    <div class="empty-feedback text-red-400 text-sm mt-1">
+    <div class="empty-feedback text-red-700 text-sm mt-1">
       Por favor ingrese su correo electrónico.
     </div>
-    <div class="invalid-feedback text-red-400 text-sm mt-1">
+    <div class="invalid-feedback text-red-700 text-sm mt-1">
       Por favor ingrese su correo electrónico válido.
     </div>
   </div>
@@ -49,11 +49,11 @@ const URL = import.meta.env.URL;
       placeholder="Escriba su consulta"
       class="w-full px-4 py-3 border-2 placeholder:text-gray-800 rounded-md outline-none h-36 focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100"
     ></textarea>
-    <div class="empty-feedback invalid-feedback text-red-400 text-sm mt-1">
+    <div class="empty-feedback invalid-feedback text-red-700 text-sm mt-1">
       Por favor ingrese su consulta.
     </div>
   </div>
-  <Button type="submit" size="lg" block>Enviar Consulta</Button>
+  <Button style="primary" type="submit" size="lg" block>Enviar Consulta</Button>
   <div id="result" class="mt-3 text-center"></div>
 </form>
 

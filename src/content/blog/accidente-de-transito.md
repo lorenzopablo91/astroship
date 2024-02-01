@@ -18,8 +18,8 @@ Sí tuviste un accidente de tránsito te contamos qué hacer, a quién reclamar 
 
 Debés realizar la denuncia con tu asegurador adentro de los 3 días del hecho.
 En caso de producirse el siniestro vas a tener las siguientes opciones:
-- CIVIL: reclamar Daños y Perjuicios y obtener una posible indemnización.
-- PENAL: en caso de existir lesiones.
+1. CIVIL: reclamar Daños y Perjuicios y obtener una posible indemnización.
+2. PENAL: en caso de existir lesiones.
 
 ## Requisitos
 
@@ -27,6 +27,8 @@ Para hacer valer tus derechos es necesario que conserves tu póliza.
 
 ## Contra quién procede?
 
-1. Titular del automotor.
-2. Conductor (sí es una persona distinta al titular del vehículo).
-3. Aseguradora.
+• Titular del automotor.
+
+• Conductor (sí es una persona distinta al titular del vehículo).
+
+• Aseguradora.

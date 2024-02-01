@@ -32,30 +32,30 @@ function formatFechaArgentina(date: Date): string {
 <Layout title={entry.data.title}>
   <Container>
     <div class="mx-auto max-w-3xl mt-14">
-      <span class="text-blue-400 uppercase tracking-wider text-sm font-medium">
+      <span class="text-green-300 uppercase tracking-wider text-sm font-medium">
         {entry.data.category}
       </span>
       <h1
-        class="text-4xl lg:text-5xl font-bold lg:tracking-tight mt-1 lg:leading-tight">
+        class="text-4xl lg:text-5xl text-gray-300 font-bold lg:tracking-tight mt-1 lg:leading-tight">
         {entry.data.title}
       </h1>
-      <div class="flex gap-2 mt-3 items-center flex-wrap md:flex-nowrap">
-        <span class="text-gray-400">•</span>
+      <div class="flex gap-2 mt-3 items-center flex-wrap md:flex-nowrap text-gray-100">
+        <span class="text-gray-300">•</span>
         <time
-          class="text-gray-400"
+          class="text-gray-300"
           datetime={entry.data.publishDate.toISOString()}>
           {formatFechaArgentina(entry.data.publishDate)}
         </time>
       </div>
     </div>
 
-    <div class="mx-auto prose prose-lg mt-6 max-w-3xl">
+    <div class="mx-auto prose prose-lg mt-6 max-w-3xl text-gray-900">
       <Content />
     </div>
     <div class="text-center mt-8">
       <a
         href="/blog"
-        class="bg-gray-100 px-5 py-3 rounded-md hover:bg-gray-200 transition"
+        class="bg-gray-300 px-5 py-3 rounded-md hover:bg-gray-200 transition"
         >← Volver a Publicaciones</a
       >
     </div>

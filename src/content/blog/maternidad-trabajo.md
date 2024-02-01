@@ -19,17 +19,17 @@ Pero OJO! Tenes la obligación de notificar a tu empleador del embarazo!.
 
 ## Licencia
 
-- La trabadora goza de una licencia de 45 días previos al parto y 45 días posteriores al mismo.
+• La trabadora goza de una licencia de 45 días previos al parto y 45 días posteriores al mismo.
 
-- Se puede optar por reducir a 30 días la licencia previa la parto y acumular esos días posteriormente.
+• Se puede optar por reducir a 30 días la licencia previa la parto y acumular esos días posteriormente.
 
 
 ## Parto prematuro
 
-- En este caso se acumulará al descanso posterior los días de licencia que no han sido efectivamente usados.
+• En este caso se acumulará al descanso posterior los días de licencia que no han sido efectivamente usados.
 
-- Siempre se deberán completar los 90 días de licencia.
+• Siempre se deberán completar los 90 días de licencia.
 
 ## Despido por embarazo
 
-- Se presume que el despido es a causa del embarazo cuando se produce dentro de los 7 meses y medio anteriores o posteriores al parto.
+Se presume que el despido es a causa del embarazo cuando se produce dentro de los 7 meses y medio anteriores o posteriores al parto.

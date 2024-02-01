@@ -17,13 +17,13 @@ La porción hereditaria es la misma que le correspondería al descendiente premu
 
 ## ¿Qué significa?
 
-- Se trata de aquellos casos en los que se produce la muerte, indignidad o renuncia de un descendiente del causante.
+Se trata de aquellos casos en los que se produce la muerte, indignidad o renuncia de un descendiente del causante.
 
 ## Efectos
 
-- El o los descendientes del heredero fallecido/excluido van a ocupar su lugar en la sucesión del causante.
+El o los descendientes del heredero fallecido/excluido van a ocupar su lugar en la sucesión del causante.
 
 ## ¿Quiénes tienen derecho a representación?
 
-- Solo los descendientes.
+Solo los descendientes.
 

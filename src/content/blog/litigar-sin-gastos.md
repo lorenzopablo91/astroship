@@ -20,7 +20,7 @@ Una vez que ha sido otorgado se informará a los organismos de recaudación quie
 
 ## Efectos
 
-- La obtención del beneficio implica no abonar al inicio los impuestos de justicia y toda erogación que implique el proceso.
+La obtención del beneficio implica no abonar al inicio los impuestos de justicia y toda erogación que implique el proceso.
 
 ## Beneficiarios
 
@@ -37,6 +37,8 @@ La intervención del Ministerio Público Fiscal es obligatoria y es este organis
 ## Prueba
 
 Se deberán presentar los siguientes informes:
-- Titularidad de bienes inmuebles y automotores.
-- Situación fiscal y previsional.
-- Certificación de empleo y constancia de remuneraciones (sí hay relación de dependencia).
+• Titularidad de bienes inmuebles y automotores.
+
+• Situación fiscal y previsional.
+
+• Certificación de empleo y constancia de remuneraciones (sí hay relación de dependencia).

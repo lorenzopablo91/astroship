@@ -17,13 +17,13 @@ Se considera tal a aquel que se padece desde el umbral de la puerta de tu domici
 
 ## ¿Qué significa?
 
-- Que debe ocurrir en el trayecto normal y habitual que el trabajador realiza desde su domicilio hasta su trabajo y viceversa.
+Que debe ocurrir en el trayecto normal y habitual que el trabajador realiza desde su domicilio hasta su trabajo y viceversa.
 
 ## Se admiten tres desvíos
 
-- La atención de un familiar directo, enfermo y no conviviente.
-- Por razones de estudio.
-- La realización de otro empleo.
+1. La atención de un familiar directo, enfermo y no conviviente.
+2. Por razones de estudio.
+3. La realización de otro empleo.
 
 >IMPORTANTE!
 >

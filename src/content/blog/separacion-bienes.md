@@ -17,34 +17,30 @@ Dentro de la comunidad los bienes se pueden diferenciar en propios o gananciales
 
 ## Bienes propios:
 
-- Aquellos que sean propiedad o estén en posesión antes del matrimonio.
+• Aquellos que sean propiedad o estén en posesión antes del matrimonio.
 
-- Adquiridos por herencia legado o donación.
+• Adquiridos por herencia legado o donación.
  
-- Adquiridos por permuta, donación o reinversión.
+• Adquiridos por permuta, donación o reinversión.
 
-- El producto de los bienes propios.
+• El producto de los bienes propios.
 
-- Adquiridos durante la comunidad sí el derecho a incorporarlos surgió antes.
+• Adquiridos durante la comunidad sí el derecho a incorporarlos surgió antes.
 
-- Indemnizaciones por daño patrimonial/moral.
+• Indemnizaciones por daño patrimonial/moral.
 
-- Jubilación, pensión o derecho de alimentos.
-
-- Etc...
+• Jubilación, pensión o derecho de alimentos.
 
 ## Bienes gananciales:
 
-- Aquellos creados o adquiridos por título oneroso por uno o ambos cónyuges.
+• Aquellos creados o adquiridos por título oneroso por uno o ambos cónyuges.
 
-- Adquiridos por azar, juegos o apuestas.
+• Adquiridos por azar, juegos o apuestas.
  
-- Los frutos naturales, civiles o industriales de los bienes tanto gananciales como propios.
+• Los frutos naturales, civiles o industriales de los bienes tanto gananciales como propios.
 
-- Frutos civiles de la profesión, trabajo, comercio o industria.
+• Frutos civiles de la profesión, trabajo, comercio o industria.
 
-- Productos de bienes gananciales.
+• Productos de bienes gananciales.
 
-- Lo percibido en concepto de jubilación, pensión o alimentos.
-
-- Etc...
+• Lo percibido en concepto de jubilación, pensión o alimentos.
